@@ -9682,3 +9682,12 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+
+    
+@media (max-width: 700px) {
+	.img_bsck_edit{
+		display: none;
+		opacity: 0;
+	}
+}

@@ -1986,3 +1986,10 @@ textarea.form-control {
     stroke-dashoffset: -136px;
   }
 }
+
+@media (max-width: 700px) {
+	.img_bsck_edit{
+		display: none;
+		opacity: 0;
+	}
+}
